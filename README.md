@@ -8,6 +8,8 @@ Data Cleaning and Organizing: Joey Donohue
 Data Visualization Lead: Nina Stevens
 Reference and Team Coordinator: Daniel Blumberg
 Primary Programmer: Audrey Tucker
+
+
 
 Project Idea Outline
 We will look at states' yearly spending on parks and recreation compared to their spending on infrastructure. We will do this by first combining our found data sets in order for there to be a single table with all the necessary features (% of state spending on parks, % of state spending on highways, voting history, etc). Before we begin our statistical analysis, we will conduct exploratory data analysis, creating graphs to investigate relationships between different variables. We will then conduct statistical analysis, relying mostly on ANOVA tests to analyze a possible connection between the budget allocation ratio (parks & recreation : transportation infrastructure) and presidential voting history. From there we can work on generating effective visualizations for the written report, using R. This will give us the necessary components to start writing our final report and accompanying final presentation. 
